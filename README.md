@@ -14,5 +14,5 @@
 
 #### 📫 Let's Connect
 Feel free to reach out on:
-- [Linkedin](www.linkedin.com/in/yi-hsuan-sally-lee)
+- [Linkedin](www.linkedin.com/in/yi-hsuan-sally-lee): @yi-hsuan-sally-lee
 - Email: sallylee960801@gmail.com
