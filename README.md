@@ -1,7 +1,3 @@
-<!--
-**sallylee0801/sallylee0801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 #### 🚀 Quick Facts
 - 👋 Hi, I'm Sally Lee!
 - 🌱 I'm an MS Applied Data Science student at the University of Chicago.
