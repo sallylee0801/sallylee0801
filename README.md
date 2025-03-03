@@ -4,4 +4,4 @@
 - 👯 I’m looking to collaborate on new ideas in deals analytics, optimization problems, or anything fun and innovative
 - 👩🏻‍💻 Python (NumPy, Pandas, Matplotlib, Seaborn, Scipy, Statsmodels), SQL, R, Julia (JuMP, LinearAlgebra)
 - 💬 Ask me about any musicals, social advocacy, bars & cafe hopping, or anything else
-- 📫 Feel free to reach out on [Linkedin](www.linkedin.com/in/yi-hsuan-sally-lee) or through email at mmm56.tw@gmail.com
+- 📫 Feel free to reach out on [Linkedin](www.linkedin.com/in/yi-hsuan-sally-lee) or through email at sallylee960801@gmail.com
